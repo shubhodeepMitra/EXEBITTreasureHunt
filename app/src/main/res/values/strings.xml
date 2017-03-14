@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ACE</string>
+    <string name="ques1">This is the first question..lets start..app testing..fill in the question here</string>
+    <string name="clue1">Here we provide the previous clue.....</string>
+    <string name="rules">Provide the rules here</string>
+    <string name="title_activity_clues">Clues</string>
+</resources>
